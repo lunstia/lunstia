@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lunstia
-- On my way to become a full-stack developer!
+- full-stack developer!
 
 <!---
 lunstia/lunstia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
